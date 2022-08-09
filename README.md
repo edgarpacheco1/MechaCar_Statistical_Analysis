@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@edgarpacheco1 
-marke0816
-/
-MechaCar_Statistical_Analysis
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-MechaCar_Statistical_Analysis/README.md
-@marke0816
-marke0816 completed challenge
-Latest commit e4414fe on 17 Jun 2021
- History
- 1 contributor
-40 lines (21 sloc)  2.98 KB
 
 # MechaCar_Statistical_Analysis
 
